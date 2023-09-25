@@ -22,8 +22,11 @@
 
 8.Save and Run the Program.
 
-## Code:
 
+ # Developed by:PRAKASH M
+# Reg No:212222100035
+
+## Code:
 ```
 #include "common.h"
 #include <cuda_runtime.h>
