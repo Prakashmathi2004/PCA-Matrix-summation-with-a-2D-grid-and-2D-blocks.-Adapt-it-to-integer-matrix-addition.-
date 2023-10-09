@@ -202,7 +202,7 @@ int main(int argc, char **argv)
 
 
 ## Output:
-![EXP 2  2D GRID](https://github.com/Roselinjovita/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/119104296/3204b671-8a18-4b4f-97e8-675d3dd895e0)
+![image](https://user-images.githubusercontent.com/118343461/235121474-a2793bda-860c-4923-91f4-f9ba31685e67.png)
 
 ```
 Matrix initialization : 6.338138 sec.
